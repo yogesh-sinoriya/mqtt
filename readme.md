@@ -32,12 +32,10 @@ If not than please install it using given commands.
 `sudo apt-get update` 
 `sudo apt-get install erlang`
 
-```
-git clone https://github.com/emqtt/emqttd.git
-
-cd emqttd && make && make dist
-```
-
 ### Refrence
-[https://www.npmjs.com/package/mqtt](https://www.npmjs.com/package/mqtt)
-[https://github.com/emqtt/emqttd/wiki/Get-Started](https://github.com/emqtt/emqttd/wiki/Get-Started)
+- [https://www.npmjs.com/package/mqtt](https://www.npmjs.com/package/mqtt)
+- [https://github.com/emqtt/emqttd/wiki/Get-Started](https://github.com/emqtt/emqttd/wiki/Get-Started)
+
+
+
+
