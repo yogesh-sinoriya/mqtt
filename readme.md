@@ -26,11 +26,9 @@ wget -O emqttd.zip http://emqtt.io/downloads/latest/ubuntu16_04
 unzip emqttd.zip
 cd emqttd && ./bin/emqttd console
 ```
-
-emqtt works with erlang, Erlang must be installed in your machine.
-If not than please install it using given commands.
-`sudo apt-get update` 
-`sudo apt-get install erlang`
+If it don't work, install erlang in machine.
+- `sudo apt-get update` 
+- `sudo apt-get install erlang`
 
 ### Refrence
 - [https://www.npmjs.com/package/mqtt](https://www.npmjs.com/package/mqtt)
