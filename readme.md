@@ -31,6 +31,7 @@ If it don't work, install erlang in machine.
 - `sudo apt-get install erlang`
 
 ### Refrence
+- [http://mqtt.org/faq](http://mqtt.org/faq)
 - [https://www.npmjs.com/package/mqtt](https://www.npmjs.com/package/mqtt)
 - [https://github.com/emqtt/emqttd/wiki/Get-Started](https://github.com/emqtt/emqttd/wiki/Get-Started)
 
